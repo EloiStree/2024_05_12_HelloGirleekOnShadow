@@ -1,5 +1,40 @@
 {
   "dependencies": {
+    "be.eloistree.generatestorersakey": {
+      "version": "https://github.com/EloiStree/2024_04_04_GenereteRsaKeyInUnity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f29a4ba6acce3e05482f94c221a396da25eda8cf"
+    },
+    "be.eloistree.iidwstunnelingrsa": {
+      "version": "https://github.com/EloiStree/2024_04_04_UnityServerTunnelingRSAUnity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9a7e1071bcf27c41e269b3d9b6e3ce5190c25ac8"
+    },
+    "be.eloistree.indexintcmd": {
+      "version": "https://github.com/EloiStree/2024_02_21_IndexIntCmd.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6dcc38cc964cb915dd6a8943e920e0810f8e3994"
+    },
+    "be.eloistree.intcmd": {
+      "version": "https://github.com/EloiStree/2024_02_17_IntCmd.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ac18ef66cac5acd134635a5f04df9b2843597144"
+    },
+    "be.eloistree.watchexecutetime": {
+      "version": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3f646cafa4fa16774bffe1ed0614d9bb7b97ba08"
+    },
     "com.unity.burst": {
       "version": "1.8.13",
       "depth": 1,
