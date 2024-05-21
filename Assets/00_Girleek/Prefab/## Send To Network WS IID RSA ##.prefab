@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1464386845750816222}
   m_Layer: 0
-  m_Name: '## ## ## Send To Network WS IID RSA## ## ##'
+  m_Name: '## Send To Network WS IID RSA ##'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
